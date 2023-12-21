@@ -22,7 +22,7 @@ supported by consistent, rigorous training.
 
 - :seedling: I've completed a FrontEnd course at Mate academy!
 
-- :zap: We've completed the development of TaskForge.
+- :zap: We've completed the development of [TaskForge](https://github.com/mate-oct28-team19/taskforge).
 
 - :mailbox: Contacts: [![Static Badge](https://img.shields.io/badge/-oleksandr_shtonda-blue%3Fstyle%3Dflat%26logo%3DTelegram%26logoColor%3Dwhite?logo=telegram&color=blue)](https://t.me/oleksandr_shtonda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleksandrshtonda@gmail.com)
 
