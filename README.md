@@ -28,7 +28,7 @@ supported by consistent, rigorous training.
 
 ---
 
-### 🤝 My social medias:
+<!--- ### 🤝 My social medias:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/oleksandr-shtonda/" target="_blank">
@@ -39,7 +39,7 @@ supported by consistent, rigorous training.
     </a>
   </div>
 
----
+--- --->
 
 ### 💻 Technologies:
 
@@ -57,6 +57,16 @@ supported by consistent, rigorous training.
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 📂 My projects
+
+- :bike: [SportBikes landing](https://github.com/oleksandrshtonda/mybike-landing)
+- :cookie: [BSweets landing](https://github.com/oleksandrshtonda/bakerlab-landing)
+- :game_die: [Number-block game](https://github.com/oleksandrshtonda/2048-game)
+- 📋 [LightManager](https://github.com/oleksandrshtonda/todo-app-with-api)
+- 📆 [TaskForge](https://github.com/mate-oct28-team19/taskforge)
 
 ---
 
