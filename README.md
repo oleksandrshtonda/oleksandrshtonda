@@ -1,16 +1,102 @@
-### Hi there 👋
+# Hello, I'm Oleksandr!
 
-<!--
-**oleksandrshtonda/oleksandrshtonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a FrontEnd developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than a year of experience, proficient in JS/TS/HTML/CSS/React/Redux, Bulma
+framework and preprocessors; I also possess a basic understanding of Python and SQL. My educational background in IT
+has been supplemented by intense self-study and training from industry professionals, including courses at ItStep and
+Mate Academy, enhancing my skill set for development work. I'm passionate about the limitless creative potential of
+programming, so I continue every day studying to be in the trend, and I'm eager to explore Angular or Vue shortly.
+The discipline and dedication I carry into my development work are reflected in my background as a karateka and
+instructor. My achievements in karate, such as 2nd place at a regional competition and 3rd place at an all-Ukrainian
+competition, demonstrate my commitment to excellence. I approach every task intending to perform at my best,
+supported by consistent, rigorous training.
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :1st_place_medal: Holder of 4 Kyu (dark-blue belt, World Karate Federation).
+
+- :seedling: I've completed a FrontEnd course at Mate academy!
+
+- :zap: We've completed the development of TaskForge.
+
+- :mailbox: Contacts: [![Static Badge](https://img.shields.io/badge/-oleksandr_shtonda-blue%3Fstyle%3Dflat%26logo%3DTelegram%26logoColor%3Dwhite?logo=telegram&color=blue)](https://t.me/oleksandr_shtonda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleksandrshtonda@gmail.com)
+
+---
+
+### 🤝 My social medias:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/oleksandr-shtonda/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/oleksandr_shtonda" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
+
+---
+
+### 💻 Technologies:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🛠 Tools:
+
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 💻 Courses I have taken:
+
+| Courses                                                         | Terms             |
+| ----------------------------------------------------------------| :---------------: |
+| mate.academy / frontend                                         | 06/2023 - 11/2023 |
+| udemy.com / Full React course - Bogdan Stashchuk                | 09/2022 - 10/2022 |
+| udemy.com / Full JavaScript course - Bogdan Stashchuk           | 08/2022 - 09/2022 |
+| sololearn.com / JavaScript course                               | 08/2022 - 08/2022 |
+| sololearn.com / CSS couse                                       | 08/2022 - 08/2022 |
+| sololearn.com / HTML course                                     | 07/2023 - 07/2023 |
+
+--- 
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/wildovaniy/badges/large)
+
+### ⚙️ GitHub stats:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=oleksandrshtonda&theme=transparent&hide_border=true" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oleksandrshtonda&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
