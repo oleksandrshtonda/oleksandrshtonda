@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I'm a FrontEnd developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than a year of experience, proficient in JS/TS/HTML/CSS/React/Redux, Bulma
+I'm a FullStack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than a year of experience, proficient in JS/TS/HTML/CSS/React/Redux/NodeJS/Express, Bulma
 framework and preprocessors; I also possess a basic understanding of Python and SQL. My educational background in IT
 has been supplemented by intense self-study and training from industry professionals, including courses at ItStep and
 Mate Academy, enhancing my skill set for development work. I'm passionate about the limitless creative potential of
@@ -86,7 +86,7 @@ supported by consistent, rigorous training.
 
 | Courses                                                         | Terms             |
 | ----------------------------------------------------------------| :---------------: |
-| mate.academy / frontend                                         | 06/2023 - 11/2023 |
+| mate.academy / FullStack                                        | 06/2023 - 11/2023 |
 | udemy.com / Full React course - Bogdan Stashchuk                | 09/2022 - 10/2022 |
 | udemy.com / Full JavaScript course - Bogdan Stashchuk           | 08/2022 - 09/2022 |
 | sololearn.com / JavaScript course                               | 08/2022 - 08/2022 |
