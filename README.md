@@ -63,6 +63,7 @@ supported by consistent, rigorous training.
 
 ### 📂 My projects
 
+- 😎 [Окуліст (Okulist)](https://github.com/Optic-Okulist/Optic_okulist)
 - 📆 [TaskForge](https://github.com/mate-oct28-team19/taskforge)
 - :bike: [SportBikes landing](https://github.com/oleksandrshtonda/mybike-landing)
 - :cookie: [BSweets landing](https://github.com/oleksandrshtonda/bakerlab-landing)
