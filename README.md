@@ -4,11 +4,11 @@
 
 ### :man_technologist: About me:
 
-I'm a FullStack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than a year of experience, proficient in JS/TS/HTML/CSS/React/Redux/NodeJS/Express, Bulma
+I'm a Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than a year of experience, proficient in JS/TS/HTML/CSS/React/Redux/NodeJS/Express, Bulma
 framework and preprocessors; I also possess a basic understanding of Python and SQL. My educational background in IT
 has been supplemented by intense self-study and training from industry professionals, including courses at ItStep and
 Mate Academy, enhancing my skill set for development work. I'm passionate about the limitless creative potential of
-programming, so I continue every day studying to be in the trend, and I'm eager to explore Angular or Vue shortly.
+programming, so I continue studying every day = to be in the trend, and I'm eager to explore Angular or Vue shortly.
 The discipline and dedication I carry into my development work are reflected in my background as a karateka and
 instructor. My achievements in karate, such as 2nd place at a regional competition and 3rd place at an all-Ukrainian
 competition, demonstrate my commitment to excellence. I approach every task intending to perform at my best,
@@ -27,19 +27,6 @@ supported by consistent, rigorous training.
 - :mailbox: Contacts: [![Static Badge](https://img.shields.io/badge/-oleksandr_shtonda-blue%3Fstyle%3Dflat%26logo%3DTelegram%26logoColor%3Dwhite?logo=telegram&color=blue)](https://t.me/oleksandr_shtonda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleksandrshtonda@gmail.com)
 
 ---
-
-<!--- ### 🤝 My social medias:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/oleksandr-shtonda/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/oleksandr_shtonda" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
-
---- --->
 
 ### 💻 Technologies:
 
@@ -91,7 +78,7 @@ supported by consistent, rigorous training.
 | udemy.com / Full React course - Bogdan Stashchuk                | 09/2022 - 10/2022 |
 | udemy.com / Full JavaScript course - Bogdan Stashchuk           | 08/2022 - 09/2022 |
 | sololearn.com / JavaScript course                               | 08/2022 - 08/2022 |
-| sololearn.com / CSS couse                                       | 08/2022 - 08/2022 |
+| sololearn.com / CSS course                                      | 08/2022 - 08/2022 |
 | sololearn.com / HTML course                                     | 07/2023 - 07/2023 |
 
 --- 
