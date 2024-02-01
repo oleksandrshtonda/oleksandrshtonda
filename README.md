@@ -8,7 +8,7 @@ I'm a Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 framework and preprocessors; I also possess a basic understanding of Python and SQL. My educational background in IT
 has been supplemented by intense self-study and training from industry professionals, including courses at ItStep and
 Mate Academy, enhancing my skill set for development work. I'm passionate about the limitless creative potential of
-programming, so I continue studying every day = to be in the trend, and I'm eager to explore Angular or Vue shortly.
+programming, so I continue studying every day to be in the trend, and I'm eager to explore Angular or Vue shortly.
 The discipline and dedication I carry into my development work are reflected in my background as a karateka and
 instructor. My achievements in karate, such as 2nd place at a regional competition and 3rd place at an all-Ukrainian
 competition, demonstrate my commitment to excellence. I approach every task intending to perform at my best,
