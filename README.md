@@ -54,10 +54,11 @@ supported by consistent, rigorous training.
 
 - 😎 [Окуліст (Okulist)](https://github.com/Optic-Okulist/Optic_okulist) - it's on development stage
 - 📆 [TaskForge](https://github.com/mate-oct28-team19/taskforge)
+- 📋 [LightManager (Vue3)](https://github.com/oleksandrshtonda/vue3_todo-app)
+- 📋 [LightManager (React + TS)](https://github.com/oleksandrshtonda/todo-app-with-api)
+- :game_die: [Number-block game](https://github.com/oleksandrshtonda/2048-game)
 - :bike: [SportBikes landing](https://github.com/oleksandrshtonda/mybike-landing)
 - :cookie: [BSweets landing](https://github.com/oleksandrshtonda/bakerlab-landing)
-- :game_die: [Number-block game](https://github.com/oleksandrshtonda/2048-game)
-- 📋 [LightManager](https://github.com/oleksandrshtonda/todo-app-with-api)
 
 ---
 
