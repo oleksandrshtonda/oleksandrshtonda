@@ -48,7 +48,7 @@ programming, so I continue studying every day to be in the trend, and I'm eager 
 
 ### 📂 My projects
 
-- 😎 [Окуліст (Okulist)](https://github.com/Optic-Okulist/Optic_okulist) - it's on development stage
+- 😎 Окуліст (Okulist) online-store - it's on development stage
 - 📆 [TaskForge](https://github.com/mate-oct28-team19/taskforge)
 - 📋 [LightManager (Vue3)](https://github.com/oleksandrshtonda/vue3_todo-app)
 - 📋 [LightManager (React + TS)](https://github.com/oleksandrshtonda/todo-app-with-api)
