@@ -115,7 +115,7 @@ programming, so I continue studying every day to be in the trend!
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=oleksandrshtonda&theme=transparent&hide_border=true" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandrshtonda&theme=vision-friendly-dark&hide=liquid,css,shell,html,scss&layout=compact" />
+      <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandrshtonda&theme=vision-friendly-dark&hide=liquid,css,shell,html,scss,vue&layout=compact" />
     </td>
   </tr>
 </table>
