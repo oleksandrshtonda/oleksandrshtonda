@@ -24,47 +24,23 @@ programming, so I continue studying every day to be in the trend!
 
 ---
 
-### 💻 Front-end:
+### 🈵 Programming & markup languages:
+[![Programmin languages](https://skillicons.dev/icons?i=js,ts,java,html,css,sass&theme=light&perline=3)](https://skillicons.dev)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" alt="StoryBook" width="40" height="40"/>&nbsp;
-</div>
+### 💻 Front-end:
+[![Front-end](https://skillicons.dev/icons?i=react,nextjs,vue,redux&theme=light)](https://skillicons.dev)
 
 ### ⚙️ Back-end:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp;
-</div>
+[![Back-end](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,sequelize&theme=light)](https://skillicons.dev)
 
 ### 💾 Databases:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-</div>
+[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb&theme=light)](https://skillicons.dev)
 
 ### 🧪 Testing:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
-</div>
+[![Testing](https://skillicons.dev/icons?i=jest,cypress&theme=light)](https://skillicons.dev)
 
 ### 🛠️ Tools:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-</div>
-
-### 🈵 Programming languages:
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
-</div>
+[![Tools](https://skillicons.dev/icons?i=webpack,vite,git,webstorm,idea,vscode,figma,notion&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -76,17 +52,6 @@ programming, so I continue studying every day to be in the trend!
 - :game_die: [Number-block game](https://github.com/oleksandrshtonda/2048-game)
 - :bike: [SportBikes landing](https://github.com/oleksandrshtonda/mybike-landing)
 - :cookie: [BSweets landing](https://github.com/oleksandrshtonda/bakerlab-landing)
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-</div>
 
 ---
 
