@@ -28,7 +28,7 @@ programming, so I continue studying every day to be in the trend!
 [![Programmin languages](https://skillicons.dev/icons?i=js,ts,java,html,css,sass&theme=light&perline=3)](https://skillicons.dev)
 
 ### 💻 Front-end:
-[![Front-end](https://skillicons.dev/icons?i=react,nextjs,vue,redux&theme=light)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=react,vue,redux,zustand&theme=light)](https://skillicons.dev)
 
 ### ⚙️ Back-end:
 [![Back-end](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,sequelize&theme=light)](https://skillicons.dev)
